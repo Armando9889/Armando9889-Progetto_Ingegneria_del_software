@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: #c4ffd8;
+}
+
+#t{
+	border: 1px solid black;
+	margin-left: 375px;
+}
+
+body #informazioni{
+text-align: center;
+font:gergia bold 22px;
+}
+
+#cod {display:none !important;}
+#tar {display:none !important;}

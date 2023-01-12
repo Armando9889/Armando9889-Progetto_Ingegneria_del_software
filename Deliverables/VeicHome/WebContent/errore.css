@@ -1,0 +1,25 @@
+body {
+	background-color: #FF0000;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+}
+
+#header {
+	background-color: #ffffff;
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+	height: 114px;
+}
+
+#header img#headerLogo1 {
+	float: right;
+}
+
+#nav {
+	text-align: center;
+}
+
+#testo {
+	font-family:arial;
+	text-align: center;
+}
